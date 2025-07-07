@@ -15,6 +15,17 @@ Currently advancing my skills through focused self-study and structured programs
 
 I'm also pursuing a second Bachelor’s degree at Arizona State University (pre-health/tech related). Outside of tech, I have a deep curiosity for systems (whether mechanical or digital), and I enjoy exploring how things work, both in code and in the real world.
 
+## 📁 Featured Projects
+
+### 🌐 [Portfolio Website](https://mzahiddev404.github.io)
+HTML/CSS/JS portfolio showcasing projects and GitHub activity.  
+Includes responsive layout, modular sections, and clean design.
+
+⚠️ NOTE: This profile is actively evolving as I progress through my full-stack curriculum. Stay tuned for new projects.
+
+### 📂 [GitHub Repositories](https://github.com/mzahiddev404?tab=repositories)
+Browse all codebases, including work from 100Devs and ASU.
+
 ---
 ## 💻 Technologies & Tools
 
