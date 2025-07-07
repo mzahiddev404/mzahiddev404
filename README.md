@@ -1,5 +1,11 @@
 # 👋 HELLO WORLD, I'm Muhammad Zahid
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+ASU+%7C+AZNext+Web+Developer+2025)
+
+![Profile views](https://komarev.com/ghpvc/?username=mzahiddev404&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub Follow](https://img.shields.io/github/followers/mzahiddev404?label=Follow&style=social)](https://github.com/mzahiddev404)
+
+
 ## 🧠 About Me
 
 Self-motivated and detail-oriented aspiring Full-Stack Developer with a strong foundation in web technologies including HTML, CSS, and JavaScript. Currently advancing my skills through focused self-study and structured programs like 100Devs and the AZNext Web Developer Cohort (July 2025), where I’m continuing to build on foundations and further proficiency in Node.js, React, and PostgreSQL. 
@@ -21,7 +27,8 @@ I'm also pursuing a second Bachelor’s degree at Arizona State University. Outs
 
 ---
 ## 🔗 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/zahidm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahidm)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:mzahid.dev404@gmail.com)
 
 ---
 ## 📊 GitHub Stats
