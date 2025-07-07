@@ -1,6 +1,6 @@
 # 👋 HELLO WORLD, I'm Muhammad Zahid
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+ASU+%7C+AZNext+Web+Developer+2025)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer+%7C+AZNext+2025+%7C+ASU;Code.+Commit.+Ship.+Repeat.)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mzahiddev404&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub Follow](https://img.shields.io/github/followers/mzahiddev404?label=Follow&style=social)](https://github.com/mzahiddev404)
