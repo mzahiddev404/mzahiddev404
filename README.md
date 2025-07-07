@@ -2,7 +2,8 @@
 
 ## 🧠 About Me
 
-Self-motivated and detail-oriented aspiring Full-Stack Developer with a strong foundation in web technologies including HTML, CSS, and JavaScript. Currently advancing my skills through focused self-study and structured programs like 100Devs and the AZNext Web Developer Cohort (July 2025), where I’m building proficiency in Node.js, React, and PostgreSQL. I bring a disciplined, solutions-oriented mindset to tech and aim to contribute meaningfully to forward-thinking development teams while continuing to grow in this rapidly evolving industry.
+Self-motivated and detail-oriented aspiring Full-Stack Developer with a strong foundation in web technologies including HTML, CSS, and JavaScript. Currently advancing my skills through focused self-study and structured programs like 100Devs and the AZNext Web Developer Cohort (July 2025), where I’m continuing to build on foundations and further proficiency in Node.js, React, and PostgreSQL. 
+I'm also pursuing a second Bachelor’s degree at Arizona State University. Outside of tech, I have a deep curiosity for systems (whether medical or mechanical), and I enjoy exploring how things work, both in code and in the real world.
 
 ---
 ## 🔗 Connect With Me
