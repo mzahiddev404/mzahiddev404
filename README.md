@@ -1,4 +1,4 @@
-# 👋 HELLO WORLD, I'm Muhammad Zahid
+# 👋 HELLO WORLD, I'm Muhammad Zahid 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer+%7C+AZNext+2025+%7C+ASU)
 
@@ -22,6 +22,7 @@ HTML/CSS/JS portfolio showcasing projects and GitHub activity.
 Includes responsive layout, modular sections, and clean design.
 
 ⚠️ NOTE: This profile is actively evolving as I progress through my full-stack curriculum. Stay tuned for new projects.
+(Formerly known as mzahid.dev404)
 
 ### 📂 [GitHub Repositories](https://github.com/mzahiddev404?tab=repositories)
 Browse all codebases, including work from 100Devs and ASU.
