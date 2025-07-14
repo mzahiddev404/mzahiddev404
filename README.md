@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer+%7C+AZNext+2025+%7C+ASU)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mzahiddev404&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub Follow](https://img.shields.io/github/followers/mzahiddev404?label=Follow&style=social)](https://github.com/mzahiddev404)
+[![GitHub Follow](https://img.shields.io/github/followers/logmzahid?label=Follow&style=social)](https://github.com/logzahid)
 
 
 ## 🧠 About Me
@@ -17,7 +17,7 @@ I'm also pursuing a second Bachelor’s degree at Arizona State University (pre-
 
 ## 📁 Featured Projects
 
-### 🌐 [Portfolio Website](https://mzahiddev404.github.io)
+### 🌐 [Portfolio Website](https://logmzahid.github.io)
 HTML/CSS/JS portfolio showcasing projects and GitHub activity.  
 Includes responsive layout, modular sections, and clean design.
 
@@ -25,7 +25,7 @@ Includes responsive layout, modular sections, and clean design.
 
 (Formerly known as mzahid.dev404)
 
-### 📂 [GitHub Repositories](https://github.com/mzahiddev404?tab=repositories)
+### 📂 [GitHub Repositories](https://github.com/logmzahid?tab=repositories)
 Browse all codebases, including work from 100Devs and ASU.
 
 ---
@@ -50,5 +50,5 @@ Browse all codebases, including work from 100Devs and ASU.
 ---
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzahiddev404&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mzahiddev404&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=logmzahid&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=logmzahid&theme=tokyonight)
