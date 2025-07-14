@@ -22,6 +22,7 @@ HTML/CSS/JS portfolio showcasing projects and GitHub activity.
 Includes responsive layout, modular sections, and clean design.
 
 ⚠️ NOTE: This profile is actively evolving as I progress through my full-stack curriculum. Stay tuned for new projects.
+
 (Formerly known as mzahid.dev404)
 
 ### 📂 [GitHub Repositories](https://github.com/mzahiddev404?tab=repositories)
