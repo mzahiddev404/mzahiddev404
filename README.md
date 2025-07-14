@@ -23,7 +23,9 @@ Includes responsive layout, modular sections, and clean design.
 
 ⚠️ NOTE: This profile is actively evolving as I progress through my full-stack curriculum. Stay tuned for new projects.
 
-(Formerly known as mzahid.dev404)
+### 🎨 [Background Color Picker (AZNext Prework)](https://mzahiddev404.github.io/background-color-picker-prework/)
+Small project built with HTML, CSS, and JS. Pick a background color using remote/click.  
+🔗 [Code on GitHub](https://github.com/mzahiddev404/background-color-picker-prework/tree/main)
 
 ### 📂 [GitHub Repositories](https://github.com/mzahiddev404?tab=repositories)
 Browse all codebases, including work from 100Devs and ASU.
