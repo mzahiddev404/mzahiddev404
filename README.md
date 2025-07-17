@@ -53,4 +53,4 @@ Browse all codebases, including work from 100Devs and ASU.
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzahiddev404&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mzahid404&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mzahiddev404&theme=tokyonight)
