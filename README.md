@@ -27,6 +27,11 @@ Includes responsive layout, modular sections, and clean design.
 Small project built with HTML, CSS, and JS. Pick a background color using remote/click.  
 🔗 [Code on GitHub](https://github.com/mzahiddev404/background-color-picker-prework/tree/main)
 
+### 🌐 [ECommerce Website](https://knotsbyesmera.com)
+built with HTML, CSS, and JS. Node.js., SQL database; a handmade/crotchet Jewelry store.  
+
+
+
 ### 📂 [GitHub Repositories](https://github.com/mzahiddev404?tab=repositories)
 Browse all codebases, including work from 100Devs and ASU.
 
