@@ -18,7 +18,7 @@ I'm also pursuing a second Bachelor’s degree at Arizona State University (pre-
 ## 📁 Featured Projects
 
 ### 🌐 [ECommerce Website](https://knotsbyesmera.com)
-  * built with HTML, CSS, and JS. Node.js., SQL database; a handmade/crotchet Jewelry store.  
+  * Built with HTML, CSS, and JS. Node.js., SQL database; a handmade/crotchet Jewelry store.  
 
 ### 🌐 [Portfolio Website](https://mzahiddev404.github.io)
   * HTML/CSS/JS portfolio showcasing projects and GitHub activity.  
