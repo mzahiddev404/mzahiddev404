@@ -17,23 +17,22 @@ I'm also pursuing a second Bachelor’s degree at Arizona State University (pre-
 
 ## 📁 Featured Projects
 
+### 🌐 [ECommerce Website](https://knotsbyesmera.com)
+  built with HTML, CSS, and JS. Node.js., SQL database; a handmade/crotchet Jewelry store.  
+
 ### 🌐 [Portfolio Website](https://mzahiddev404.github.io)
-HTML/CSS/JS portfolio showcasing projects and GitHub activity.  
-Includes responsive layout, modular sections, and clean design.
+  * HTML/CSS/JS portfolio showcasing projects and GitHub activity.  
+  * Includes responsive layout, modular sections, and clean design.
 
 ⚠️ NOTE: This profile is actively evolving as I progress through my full-stack curriculum. Stay tuned for new projects.
 
-
-### 🌐 [ECommerce Website](https://knotsbyesmera.com)
-built with HTML, CSS, and JS. Node.js., SQL database; a handmade/crotchet Jewelry store.  
-
 ### 🎨 [Background Color Picker](https://mzahiddev404.github.io/background-color-picker-prework/)
-Small project built with HTML, CSS, and JS. Pick a background color using remote/click.  
-🔗 [Code on GitHub](https://github.com/mzahiddev404/background-color-picker-prework/tree/main)
+  Small project built with HTML, CSS, and JS. Pick a background color using remote/click.  
+  🔗 [Code on GitHub](https://github.com/mzahiddev404/background-color-picker-prework/tree/main)
 
 
 ### 📂 [GitHub Repositories](https://github.com/mzahiddev404?tab=repositories)
-Browse all codebases, including work from 100Devs and ASU.
+  Browse all codebases, including work from 100Devs and ASU.
 
 ---
 ## 💻 Technologies & Tools
