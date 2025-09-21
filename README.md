@@ -23,13 +23,13 @@ Includes responsive layout, modular sections, and clean design.
 
 ⚠️ NOTE: This profile is actively evolving as I progress through my full-stack curriculum. Stay tuned for new projects.
 
-### 🎨 [Background Color Picker](https://mzahiddev404.github.io/background-color-picker-prework/)
-Small project built with HTML, CSS, and JS. Pick a background color using remote/click.  
-🔗 [Code on GitHub](https://github.com/mzahiddev404/background-color-picker-prework/tree/main)
 
 ### 🌐 [ECommerce Website](https://knotsbyesmera.com)
 built with HTML, CSS, and JS. Node.js., SQL database; a handmade/crotchet Jewelry store.  
 
+### 🎨 [Background Color Picker](https://mzahiddev404.github.io/background-color-picker-prework/)
+Small project built with HTML, CSS, and JS. Pick a background color using remote/click.  
+🔗 [Code on GitHub](https://github.com/mzahiddev404/background-color-picker-prework/tree/main)
 
 
 ### 📂 [GitHub Repositories](https://github.com/mzahiddev404?tab=repositories)
